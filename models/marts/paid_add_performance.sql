@@ -1,3 +1,6 @@
+
+/* Creating the final tabel of MCDM which is pushed to BigQuery to generate report*/
+
 {{ config(materialized='table') }}
 
 with paid_add_performance as (

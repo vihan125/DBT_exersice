@@ -1,3 +1,6 @@
+
+/* Mapping raw data of facebook advertiesments to the Improvado MCDM model */
+
 with stg_facebook as (
 
     select 

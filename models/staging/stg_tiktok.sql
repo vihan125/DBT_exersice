@@ -1,3 +1,6 @@
+
+/* Mapping raw data of tiktok advertiesments to the Improvado MCDM model */
+
 with stg_tiktok as (
 
     select 

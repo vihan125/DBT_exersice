@@ -1,3 +1,6 @@
+
+/* Mapping raw data of Twitter advertiesments to the Improvado MCDM model */
+
 with stg_twitter as (
 
     select 
