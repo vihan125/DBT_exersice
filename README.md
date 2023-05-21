@@ -7,6 +7,8 @@ The challenge involved mapping the columns from the raw data files to the corres
 <p align="center">
   <image src = https://github.com/vihan125/DBT_exersice/blob/main/solution_DAG.PNG width="80%" height="50%">
 </p>
+  
+  You can access the Google looker report by following this link : https://lookerstudio.google.com/s/ha4Vh6Sq7dk
 
 
 
