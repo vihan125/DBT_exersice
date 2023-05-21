@@ -1,3 +1,6 @@
+
+/* Mapping raw data of Bing advertiesments to the Improvado MCDM model */
+
 with stg_bing as (
 
     select 
