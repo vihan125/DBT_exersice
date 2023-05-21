@@ -40,7 +40,8 @@ with paid_add_performance as (
             select * from {{ ref ('stg_tiktok')}}
             union all
             select * from {{ ref ('stg_twitter')}}
-
+            
+            /* Add new ad platform staging models here with "union all" clause*/
         )
 
 )
